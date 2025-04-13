@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Halil İbrahim Yesirci</h1>
 <h3 align="center">A Passionate About Defense Technologies & Engineering student at Turkey!</h3>
 
-- 🔭 I’m currently working on both **VULPES Rocket Team**
-
+- 🚀 I’m currently working on both **VULPES Rocket Team**
+  
+- ✈️ and also working on **IYTE ANKA Air Defender Systems**
+  
 - 🌱 I’m currently learning **Machine Learning and Data Analyzing**
-
-- 🔭 and also working on **IYTE ANKA Air Defender Systems**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://www.linkedin.com/in/halil-ibrahim-yesirci000/)
 
