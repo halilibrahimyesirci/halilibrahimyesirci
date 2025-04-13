@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Halil İbrahim Yesirci</h1>
-<h3 align="center">A Passionate About Defense Technologies & Engineering student at Turkey!</h3>
+<h1 align="center">Hello dear reader 👋, I'm Halil İbrahim Yesirci</h1>
+<h3 align="center">A passionate engineering student from Turkey, dedicated to defense technologies and innovation!</h3>
 
 - 🚀 I’m currently working on both **VULPES Rocket Team**
   
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://www.linkedin.com/in/halil-ibrahim-yesirci000/)
 
 - 📫 How to reach me **halilibrahimyesirci@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://www.linkedin.com/in/halil-ibrahim-yesirci000/)
 
 - ⚡ Fun fact **I'm a prep school student at IZTECH! My department is Computer Engineering.**
 
