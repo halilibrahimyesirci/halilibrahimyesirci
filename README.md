@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://www.linkedin.com/in/halil-ibrahim-yesirci000/)
 
+- 🏠 Here's my website for all about me [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://halilyesirci.pythonanywhere.com/)
+
 - 📫 How to reach me **halilibrahimyesirci@gmail.com**
 
 - ⚡ Fun fact **I'm a prep school student at IZTECH! My department is Computer Engineering.**
