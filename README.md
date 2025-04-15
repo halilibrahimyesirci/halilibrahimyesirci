@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://www.linkedin.com/in/halil-ibrahim-yesirci000/)
 
-- 🏠 Here's my website for all about me [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://halilyesirci.pythonanywhere.com/)
+- 🏠 Here's my website for all about me [https://halilyesirci.pythonanywhere.com](https://halilyesirci.pythonanywhere.com/)
 
 - 📫 How to reach me **halilibrahimyesirci@gmail.com**
 
