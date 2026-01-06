@@ -1,9 +1,11 @@
 <h1 align="center">Hello dear reader 👋, I'm Halil İbrahim Yesirci</h1>
 <h3 align="center">A passionate engineering student from Turkey, dedicated to defense technologies and innovation!</h3>
 
-- 🚀 I’m currently working on both **VULPES Rocket Team**
+- 🚀 I’m currently working on **VULPES Rocket Team**
+
+- ✈️
   
-- ✈️ and also working on **IYTE ANKA Air Defender Systems**
+- 🛻 and also working on **PARS Unmanned Ground Vehicles Team**
   
 - 🌱 I’m currently learning **Machine Learning and Data Analyzing**
 
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **halilibrahimyesirci@gmail.com**
 
-- ⚡ Fun fact **I'm a prep school student at IZTECH! My department is Computer Engineering.**
+- ⚡ **I'm a student from IZTECH. My department is Computer Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
