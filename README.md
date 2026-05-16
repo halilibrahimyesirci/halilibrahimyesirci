@@ -1,19 +1,13 @@
 <h1 align="center">Hello dear reader 👋, I'm Halil İbrahim Yesirci</h1>
 <h3 align="center">A passionate engineering student from Turkey, dedicated to defense technologies and innovation!</h3>
 
-- 🚀 I’m currently working on **VULPES Rocket Team**
-
-- ✈️
+- ✈️ I’m currently working on **IHATECH Combat Crone Team**
   
 - 🛻 and also working on **PARS Unmanned Ground Vehicles Team**
   
 - 🌱 I’m currently learning **Machine Learning and Data Analyzing**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/halil-ibrahim-yesirci000/](https://www.linkedin.com/in/halil-ibrahim-yesirci000/)
-
-- 🏠 Here's my website for all about me [https://halilyesirci.pythonanywhere.com](https://halilyesirci.pythonanywhere.com/)
-
-- 📫 How to reach me **halilibrahimyesirci@gmail.com**
 
 - ⚡ **I'm a student from IZTECH. My department is Computer Engineering.**
 
