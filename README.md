@@ -59,16 +59,6 @@ I'm a Computer Engineering student working at the intersection of **defense tech
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> Sadece gerçekten kullandığın araçları bırak — şişirme bir stack güveni azaltır. Düzenli kullanmadığını sil.
-
----
-
-### Featured Projects
-
-- **[Webcam Mouse](https://github.com/halilibrahimyesirci/Webcam_Mouse)** — Hands-free mouse control driven by webcam input. Built for the Turkcell "Yarının Teknolojileri" competition. *(Computer Vision · Python)*
-- **[Weighted Voronoi Stippling](https://github.com/halilibrahimyesirci/Weighred_Voronoi_Stippling_Photo)** — Converts images into stippled art using weighted Voronoi diagrams. *(Image Processing · Python)*
-- **[Small Python Projects](https://github.com/halilibrahimyesirci/small_python_projects)** — A growing collection of open-source Python utilities and experiments. *(Python)*
-
 ---
 
 ### GitHub Activity
