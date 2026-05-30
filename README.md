@@ -44,6 +44,8 @@ I'm a Computer Engineering student working at the intersection of **defense tech
 
 **Embedded & Robotics**
 
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6E00?style=flat-square&logo=gazebo&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 **Web**
